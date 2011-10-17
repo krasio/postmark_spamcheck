@@ -1,3 +1,5 @@
+require 'restfulie'
+
 module PostmarkSpamcheck
   class Error < StandardError; end
 
